@@ -3,8 +3,8 @@ import pandas as pd
 import pickle
 
 # Load the trained model and necessary data
-model = pickle.load(open("C:\\Users\\shekh\\Downloads\\Customer churn analysis Ml Project\\best_model_Gradient_Boosting.pkl", "rb"))
-df_1 = pd.read_csv("C://Users//shekh//Downloads//Customer churn analysis Ml Project//first_telc.csv")
+model = pickle.load(open("C:\\Users\\shekh\\Downloads\\Customer churn analysis Ml Project\\EDA and model building\\best_model_Gradient_Boosting.pkl", "rb"))
+df_1 = pd.read_csv("C:\\Users\\shekh\\Downloads\\Customer churn analysis Ml Project\\first_telc.csv")
 
 # Streamlit app
 def main():
