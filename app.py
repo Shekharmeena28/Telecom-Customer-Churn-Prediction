@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
-import pickle
+import joblib
 
 # Load the trained model and necessary data
-model = pickle.load(open("C:\\Users\\shekh\\Downloads\\Customer churn analysis Ml Project\\EDA and model building\\best_model_Gradient_Boosting.pkl", "rb"))
+model = joblib.load(open("C://Users//shekh//Downloads//Customer churn analysis Ml Project//EDA and model building//best_model_Gradient_Boosting.joblib", "rb"))
 df_1 = pd.read_csv("C:\\Users\\shekh\\Downloads\\Customer churn analysis Ml Project\\first_telc.csv")
 
 # Streamlit app
