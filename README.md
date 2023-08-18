@@ -1,3 +1,6 @@
+![Image_1](Image.png)
+![Image_2](image_2.png)
+
 ## TELECOM CUSTOMER CHURN PREDICTION ##
 - This project focuses on predicting customer churn in the telecom industry using machine learning techniques. Customer churn refers to the phenomenon where customers discontinue their services, leading to financial losses for the business. By accurately predicting potential churners, telecom companies can take proactive measures to retain customers and enhance customer satisfaction.
 
