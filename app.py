@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the trained model and necessary data
-model = joblib.load(open("C://Users//shekh//Downloads//Customer churn analysis Ml Project//EDA and model building//best_model_Gradient_Boosting.joblib", "rb"))
+model = joblib.load(open("EDA and model building/best_model_Gradient_Boosting.joblib", "rb"))
 df_1 = pd.read_csv("C:\\Users\\shekh\\Downloads\\Customer churn analysis Ml Project\\first_telc.csv")
 
 # Streamlit app
