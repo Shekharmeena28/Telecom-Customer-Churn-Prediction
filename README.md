@@ -36,4 +36,4 @@ Feel free to tailor this summary to reflect the specific details and achievement
 
 # DEPLOYEMENT 
 
-https://telecom-customer-churn-prediction-xpaczum8v9dywxduixadpa.streamlit.app/
+https://telecom-customer-churn-prediction-xpaczum8v9dywxduixadp.streamlit.app/
